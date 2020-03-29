@@ -31,6 +31,7 @@ Syntax highlighted code block
 
 <html>
   <head>
+    <title>Test title</title>
   </head>
 </html>
 ```
