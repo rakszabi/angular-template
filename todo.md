@@ -1,8 +1,8 @@
 # TO DO List
-- [ ] Angular Material
-- [ ] Angular Material container
-- [ ] Adatok betöltése publikus REST API-ról
-- [ ] Adatok betöltése privát REST API-ról
+[ ] Angular Material
+[ ] Angular Material container
+[ ] Adatok betöltése publikus REST API-ról
+[ ] Adatok betöltése privát REST API-ról
 - [ ] Vázlat írás
 - [ ] AJAX
 - [ ] ToTheTopBtn
