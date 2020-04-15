@@ -1,15 +1,15 @@
 # TO DO List
-- [ ]  Angular Material
-- [ ] - Angular Material container
-- [ ] - Adatok betöltése publikus REST API-ról
-- [ ] - Adatok betöltése privát REST API-ról
-- [ ] - Vázlat írás
-- [ ] - AJAX
-- [ ] - ToTheTopBtn
-- [ ] - Bootstrap module
-- [ ] - Effektek
-- [ ] - Angular tesztelés
-- [ ] - Angular 9
-- [ ] - File struktúra
-- [ ] - Pipes
-- [ ] - Form validáció
+- [ ] Angular Material
+- [ ] Angular Material container
+- [ ] Adatok betöltése publikus REST API-ról
+- [ ] Adatok betöltése privát REST API-ról
+- [ ] Vázlat írás
+- [ ] AJAX
+- [ ] ToTheTopBtn
+- [ ] Bootstrap module
+- [ ] Effektek
+- [ ] Angular tesztelés
+- [ ] Angular 9
+- [ ] File struktúra
+- [ ] Pipes
+- [ ] Form validáció
